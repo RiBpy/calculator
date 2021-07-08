@@ -1,0 +1,51 @@
+h3,h2{
+    color:rgb(223, 234, 243);
+}
+#cal-body{
+    background:#040814;
+    border-radius:10px;
+    box-shadow:10px 10px 10px rgb(37, 37, 37);
+}
+#on{
+ font-size:20px;
+ box-shadow:3px 3px 3px rgb(126, 126, 160);
+}
+#input{
+    display:none;
+    background:#98b2dd;
+    color:black;
+
+}
+
+#allButton .btn{
+    box-shadow:3px 3px 3px rgb(126, 126, 160);
+    padding: 15px 18px 15px 18px;
+}
+#allButton .dot{
+    padding: 15px 20px 15px 20px;
+}
+#allButton .square{
+    padding: 15px 10px 15px 10px;
+}
+#allButton #equal{
+    padding: 15px 83px 15px 83px;
+}
+#allButton #plus{
+    padding: 15px 25px 15px 25px;
+}
+#allButton #minus{
+    padding: 15px 26px 15px 26px;
+}
+#allButton #multi{
+    padding: 15px 26px 15px 26px;
+}
+#allButton #div{
+    padding: 15px 26px 15px 26px;
+}
+#allButton #dot{
+    padding:15px 20px 15px 20px;
+}
+#input:active ,#input:hover, #input:focus{
+outline:0;
+ border-color:none;
+}
